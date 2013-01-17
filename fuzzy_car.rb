@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-MAX_DELTA = 600000.0 # WTF?
+MAX_DELTA = 600000.0 
 RULES_COUNT = 9
 
 class Car
